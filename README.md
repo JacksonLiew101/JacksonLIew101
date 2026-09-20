@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jackson Liew</h1>
-<h3 align="center">A Computer Science Graduate from Malaysia</h3>
+<h3 align="center">Data Platform & Analytics Engineer · Azure / Microsoft Fabric</h3>
 
-- 🌱 I’m currently growing in data engineering role with the following tech stacks: **Apache Spark, Kafka, Airflow, Python, Azure, Databricks, DBT**
+- 🔧 I build production data and AI platforms — **PySpark, Spark SQL, Python, T-SQL, Microsoft Fabric (Lakehouse, Warehouse, Semantic Models), Azure Data Lake Storage Gen2, Azure Functions, Azure DevOps, Bicep**
 
-- 📫 How to reach me **https://www.linkedin.com/in/jacksonliew/**
-
-- ⚡ Fun fact **I love playing guitar, gym and swimming**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/jacksonliew/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
