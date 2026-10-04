@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer · Apache Spark · Azure / Microsoft Fabric · AI-powered enterprise applications</h3>
 
 <p align="center">
-<a href="https://jackson-liew-cv.vercel.app/?motion=full#intro"><img src="https://jackson-liew-cv.vercel.app/intro-poster.jpg" alt="Watch the 36-second intro on my site" width="600" /></a>
+<a href="https://jackson-liew-cv.vercel.app/#intro"><img src="https://jackson-liew-cv.vercel.app/intro-poster.jpg" alt="Watch the 36-second intro on my site" width="600" /></a>
 </p>
 
 I build data platforms on Apache Spark, and the AI-powered enterprise applications that run on top of them.
@@ -13,7 +13,7 @@ I build data platforms on Apache Spark, and the AI-powered enterprise applicatio
 - 🧪 I build with AI coding agents inside a harness of hooks, evals and telemetry: root-cause turnaround went from a day to an hour
 - 🌱 Fabric runs on Spark and Delta Lake, the same engine and table format Databricks is built on, so my PySpark, Spark SQL and lakehouse work carries across
 - 📍 Selangor, Malaysia · open to relocation · looking for a Data Engineer or Data Platform Engineer role
-- 🌐 See the full story on my **[website](https://jackson-liew-cv.vercel.app/?motion=full#intro)**
+- 🌐 See the full story on my **[website](https://jackson-liew-cv.vercel.app/#intro)**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/jacksonliew/)** or at **[jacksonliewsir@gmail.com](mailto:jacksonliewsir@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
